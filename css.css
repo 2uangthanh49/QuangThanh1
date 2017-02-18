@@ -1,0 +1,138 @@
+body {
+	background-image: url("image/1.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	background-repeat: no-repeat;
+}
+
+ul {
+	list-style-type: none;
+	margin-bottom: 20px;
+	height: 50px;
+	margin-left: 500px;
+}
+
+li {
+	float:left;
+	margin-right: 50px;
+	height: 35px;
+	width: 120px;
+	background-color: #e8eeef;
+	text-align: center;
+	font-size:30px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+#form_input {
+	width: 60%;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+#p_input {
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: black;
+	background-color:#e8eeef;
+	width:20%;
+	border-radius: 5px;
+	float: left;
+	margin-left: 20px;
+	margin-top: -5px;
+}
+
+#text_input {
+	width: 400px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 25px;
+	float: left;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+#submit_input {
+	border-radius: 5px;
+	background-color: #e8eeef;
+	width: 120px;
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	float: left;
+	margin-left: 20px;
+	margin-top: -8px;
+}
+
+#url_output {
+	border-radius: 5px;
+	width: 40%;
+	text-align: center;
+	font-size: 25px;
+	background-color:#e8eeef;
+	margin-left: 615px;
+	margin-right: auto;
+	margin-top: -10px;
+}
+
+#mess_input {
+	border-radius: 5px;
+	width: 20%;
+	text-align: center;
+	font-size: 20px;
+	background-color:#e8eeef;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -10px;
+}
+
+#form_short {
+	width: 60%;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 70px;
+}
+
+#p_short {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+	background-color:#e8eeef;
+	width:10%;
+	border-radius: 5px;
+	float: left;
+	margin-left: 210px;
+	margin-top: -5px;
+}
+
+#text_short {
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+	font-size: 15px;
+	float: left;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+#submit_short {
+	border-radius: 5px;
+	background-color: #e8eeef;
+	width: 70px;
+	height: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	margin-left: 20px;
+	margin-top: -8px;
+}
+
+#infor {
+	border: 5px;
+	width: 20%;
+}
